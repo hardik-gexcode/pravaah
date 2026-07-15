@@ -2,7 +2,7 @@
 
 Prototype built for the **NABARD Hackathon @ Global FinTech Fest 2026**
 (Team PRAVAAH — Hardik Gupta, Mishika Sharma, Makshita Saini, Hanish Jain · JECRC Foundation, Jaipur)
-
+Live- https://pravaah-iota.vercel.app
 ## What this is
 
 A single-page product site that doubles as the working prototype demo:
